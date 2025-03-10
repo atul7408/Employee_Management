@@ -1,0 +1,67 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "firstName": "Atul00",
+      "lastName": "Verma",
+      "employeeNumber": "E01",
+      "division": " Intern "
+    },
+    {
+      "id": "2",
+      "firstName": "Aman ",
+      "lastName": "Sharma",
+      "employeeNumber": "E04",
+      "division": "HR"
+    },
+    {
+      "id": "3",
+      "firstName": "Pankaj",
+      "lastName": "Patel",
+      "employeeNumber": "E03",
+      "division": "SDE"
+    },
+    {
+      "id": "4",
+      "firstName": "Rohit",
+      "lastName": "Sharma",
+      "employeeNumber": "E04",
+      "division": "SDE2"
+    },
+    {
+      "id": "5",
+      "firstName": "Aryan",
+      "lastName": "shukla",
+      "employeeNumber": "E05",
+      "division": "HR"
+    },
+    {
+      "id": "6",
+      "firstName": "Neha",
+      "lastName": "gupta",
+      "employeeNumber": "E06",
+      "division": "HR"
+    },
+    {
+      "id": "7",
+      "firstName": "Anamika",
+      "lastName": "gupta",
+      "employeeNumber": "E07",
+      "division": "Intern"
+    },
+    {
+      "id": "8",
+      "firstName": "Sahil",
+      "lastName": "yadav",
+      "employeeNumber": "E08",
+      "division": "Sale"
+    },
+    {
+      "id": "9",
+      "firstName": "Arunima",
+      "lastName": "gupta",
+      "employeeNumber": "E09",
+      "division": "Intern"
+    }
+  ]
+}

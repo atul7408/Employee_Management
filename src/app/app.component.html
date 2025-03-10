@@ -1,0 +1,9 @@
+<mat-toolbar color="primary">
+    <span>{{ title }}</span>
+  </mat-toolbar>
+  
+  <!-- Wrap router-outlet to apply route animations -->
+  <div [@routeAnimations]="getAnimationData(outlet)">
+    <router-outlet #outlet="outlet"></router-outlet>
+  </div>
+  
