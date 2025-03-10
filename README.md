@@ -48,7 +48,7 @@ This project is a simple Employee Management System developed using Angular. It 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/shagunmishra28/employee-management-project
+   https://github.com/atul7408/Employee_Management
    cd employee-management-system
 Install Dependencies:
 
@@ -64,7 +64,7 @@ JSON Server will run at http://localhost:3000.
 
 Run the Angular Application:
 
-https://bucolic-banoffee-c3d278.netlify.app/
+https://employee-management-project-master-59jc48uqq.vercel.app/
 
 
 Usage
@@ -134,8 +134,6 @@ Add unit tests and integration tests to ensure robustness.
 Conclusion
 This Employee Management System project demonstrates key Angular concepts including routing, reactive forms, service-based data access, and UI design using Angular Material. The project meets the assignment requirements and is structured for further expansion and integration with a real backend if needed.
 
-Feel free to modify this README to match any additional changes or enhancements you implement in your project.
 
----
 
-This README should provide a comprehensive guide covering all aspects of your assignment—from
+
