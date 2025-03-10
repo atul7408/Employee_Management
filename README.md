@@ -58,11 +58,8 @@ Employee_Management/
 │── package.json
 │── angular.json
 │── README.md
-API Endpoints (JSON Server)
-Method	Endpoint	Description
-GET	/employees	Get all employees
-GET	/employees/{id}	Get an employee by ID
-PUT	/employees/{id}	Update employee details
+
+
 Contributing 🤝
 🔹 Fork the repo
 🔹 Create a feature branch (git checkout -b feature-branch)
