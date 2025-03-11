@@ -1,26 +1,26 @@
-# Employee Management System
+# Employee Management System ---->  XEBO.AI
 
 ## Overview
 
-This project is a simple Employee Management System developed using Angular. It demonstrates proficiency in Angular by implementing a complete frontend with a login interface, an employee list with data persistence (via JSON Server), and an employee detail popup for editing. The application also features routing, reactive forms, and a modern UI built with Angular Material.
+This project is a lightweight Employee Management System built with Angular, showcasing expertise in frontend development. It features a login interface, an employee list that retains data using JSON Server, and an editable employee details popup. The application also incorporates routing, reactive forms, and a sleek, responsive UI powered by Angular Material.
 
 ## Features
 
 1- **Login Interface:**  
-  - A modern, responsive login form with fields for username and password.
-  - Option to recover password.
-  - Credentials are validated using a simple backend (simulated with JSON Server).
-  - On successful login, users are redirected to the Employee List interface.
+  - A modern and responsive login form with fields for username and password.
+  - Includes an option to recover the password.
+  - Validates credentials using a simulated backend (JSON Server).
+  - Redirects users to the Employee List interface upon successful login.
 
 2- **Employee List Interface:**  
-  - Displays a list of employees with details such as First Name, Last Name, Employee Number, and Division.
-  - Data is fetched from a simulated backend (JSON Server) which reads from a JSON file.
-  - Responsive and visually appealing layout using Angular Material components.
+  - Shows a list of employees with details like First Name, Last Name, Employee Number, and Division.
+  - Retrieves data from a simulated backend (JSON Server) that reads from a JSON file.
+  - Features a responsive and visually appealing layout built with Angular Material components.
 
 3- **Employee Details Popup:**  
-  - Clicking on an employee’s name (or edit icon) opens a popup dialog.
-  - The dialog displays the employee's current details and allows for editing.
-  - Changes are saved back to the JSON Server, and the employee list is refreshed to reflect the updates.
+  - Clicking on an employee’s name or edit icon opens a popup dialog.
+  - The dialog displays the employee's current details and provides an option for editing.
+  - Updates are saved back to the JSON Server, and the employee list refreshes to reflect the changes.
 
 ## Technical Specifications
 
@@ -49,6 +49,7 @@ This project is a simple Employee Management System developed using Angular. It 
 
    ```bash
    https://github.com/atul7408/Employee_Management
+   
    cd employee-management-system
 Install Dependencies:
 
@@ -71,7 +72,7 @@ Usage
 1. Login:
 
 Navigate to application
-Use the demo credentials (for example, username: admin and password: admin123).
+Use the demo credentials (for example, username: john and password: john123).
 (Credentials are validated via a simple AuthService implementation.)
 On successful login, you will be redirected to the Employee List interface.
 
